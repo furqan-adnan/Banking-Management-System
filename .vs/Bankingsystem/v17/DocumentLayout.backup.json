@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{006BD25F-4DDC-450A-B8B2-450E0B56B03B}|Bankingsystem.vcxproj|D:\\Bankingsystem\\code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{006BD25F-4DDC-450A-B8B2-450E0B56B03B}|Bankingsystem.vcxproj|solutionrelative:code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006BD25F-4DDC-450A-B8B2-450E0B56B03B}|Bankingsystem.vcxproj|D:\\Bankingsystem\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{006BD25F-4DDC-450A-B8B2-450E0B56B03B}|Bankingsystem.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Bankingsystem\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Bankingsystem\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-14T16:45:57.305Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "code.cpp",
               "ToolTip": "D:\\Bankingsystem\\code.cpp",
               "RelativeToolTip": "code.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-08T12:36:55.034Z",
               "EditorCaption": ""
