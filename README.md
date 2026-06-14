@@ -6,9 +6,9 @@ This system completely eliminates hardcoding and brute-force processing, replaci
 
 ![Application Preview](preview.png)
 
-![Application Preview](preview(2).png)
+![Application Preview](preview (2).png)
 
-![Application Preview](preview(3).png)
+![Application Preview](preview (3).png)
 
 * Core OOP Architecture & Design Pillars
 
