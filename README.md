@@ -4,11 +4,11 @@ An advanced, enterprise-grade Console Banking Application engineered in **Pure C
 
 This system completely eliminates hardcoding and brute-force processing, replacing them with dynamic runtime architecture, multi-actor authentication, and defensive security protocols.
 
-![Application Preview](preview.png)
+![Application Preview 1](preview.png)
 
-![Application Preview](preview (2).png)
+![Application Preview 2](preview-2.png)
 
-![Application Preview](preview (3).png)
+![Application Preview 3](preview-3.png)
 
 * Core OOP Architecture & Design Pillars
 
